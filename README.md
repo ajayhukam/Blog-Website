@@ -23,4 +23,4 @@ This website features include -
 14. Its mobile responsive with modern design + fade in animation on pages.
 And much more.
 
-## Author: Ajay
+### Author: Ajay
